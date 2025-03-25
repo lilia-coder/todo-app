@@ -26,7 +26,7 @@ C’est une simple to-do list, mais avec un **mode sombre** parce que... bah c�
 
 - HTML5 (structure)
 - CSS3 (flexbox, dark mode)
-- JavaScript (juste ce qu’il faut pour le fun)
+- JavaScript 
 
 ---
 
