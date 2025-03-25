@@ -17,7 +17,7 @@ C’est une simple to-do list, mais avec un **mode sombre** parce que... bah c�
 
 ## 👀 Aperçu
 
-🔗 [Clique ici pour tester l'app](https://lilia-coder.github.io/todo-app)
+🔗 [Clique ici pour tester l'app](https://lilia-coder.github.io/todo-app/)
 
 
 ---
